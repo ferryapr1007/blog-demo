@@ -1,8 +1,11 @@
 ---
+title: Quick Start Guide
+date: 2018-01-11 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
 layout: post
-title:  "Quick Start Guide"
 author: sal
-categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
