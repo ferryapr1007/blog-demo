@@ -1,5 +1,6 @@
 ---
 title: Mediumish Template for Jekyll
+permalink: "/"
 comments: true
 layout: default
 ---
